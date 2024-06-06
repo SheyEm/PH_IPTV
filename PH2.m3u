@@ -86,7 +86,7 @@ https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="ALL TV | STARTELEVISION"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="GENERAL", ALL TV | STARTELEVISION
 https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
 
-EXTINF:-1 tvg-id="ANIMAX (JP | No Subtitle)"  tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="ANIMATION", ANIMAX (JP | No Subtitle)
+#EXTINF:-1 tvg-id="ANIMAX (JP | No Subtitle)"  tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="ANIMATION", ANIMAX (JP | No Subtitle)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 #EXTINF:-1 tvg-id="CRUNCHYROLL | EN AUDIO / 720P" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg" group-title="ANIMATION",CRUNCHYROLL | EN AUDIO / 720P
