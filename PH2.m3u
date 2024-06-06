@@ -113,7 +113,7 @@ https://tinyurl.com/5ytwmdjm
 #EXTINF:-1 group-title="TV Channels",DreamWorks Tagalized
 https://stream.freetv.fun/d989ed993980c51e8b0f36ac1b09e851cdba7c58fb3eae1d653dc91c49df7620.ctv
 
-#EXTINF:-1 tvg-id="DZBBDT1.ph"  tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="NEWS",Super Radyo DZBB (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DZBBDT1.ph"  tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="NEWS",DZBB Super Radyo (720p) [Not 24/7]
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="FOOD", FOOD NETWORK
@@ -257,7 +257,7 @@ https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1 tvg-id="TV5"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="GENERAL;NEWS', TV 5 (720p / 1080p) 
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="TV Channels",TvN Movies Tagalog
+#EXTINF:-1 tvh-id="TvN Movies Tagalog" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="TV Channels",TvN Movies Tagalog
 https://tinyurl.com/tvNMovies
 
 #EXTINF:-1 tvg-id="WILD PLANET"  tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="GENERAL" , Wild Planet
@@ -265,3 +265,10 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="WWE NETWORK"  tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="SPORTS",WWE Network
 https://tinyurl.com/WWENETW
+
+#EXTINF:-1 tvg-id="LoFi Girl"  tvg-logo="https://yt3.ggpht.com/M0eY1tfgiwuyqrSlWIkzf5-6RZSARiuChjpXyZe-hfl9C2fn-I4leLtxKAqYqGZv_FgE4u5TKQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Youtube Channels",LoFi Girl
+https://www.youtube.com/watch?v=jfKfPfyJRdk&pp=ygUJbG9maSBnaXJs
+
+#EXTINF:-1 tvg-id="HITS Radio 1"  tvg-logo="https://yt3.googleusercontent.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s160-c-k-c0x00ffffff-no-rj" group-title="Youtube Channels",LoFi Girl
+https://www.youtube.com/watch?v=HQtFR3mhzOY&pp=ygUKbGl2ZSBtdXNpYw%3D%3D
+
