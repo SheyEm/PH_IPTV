@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="TV Channels",A2Z
-http://jmrk.xyz:3050/live/mariamatos5@aol.com/NECUwTVLwP/558786.ts
-
 #EXTINF:-1 tvg-id="ANC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/ANCHD.svg" group-title="NEWS",ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
@@ -274,3 +271,31 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL", GMA
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="TV Channels",AnimeTV
+https://bit.ly/4e9OrjW
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="TV Channels",AnimeTV
+https://bit.ly/4e9OrjW
+
+#EXTINF:-1 tvg-logo="https://logotyp.us/file/dreamworks.svg" group-title="TV Channels",DreamWorks
+https://tinyurl.com/5ytwmdjm
+
+#EXTINF:-1 group-title="TV Channels",DreamWorks Tagalized
+https://stream.freetv.fun/d989ed993980c51e8b0f36ac1b09e851cdba7c58fb3eae1d653dc91c49df7620.ctv
+
+#EXTINF:-1 tvg-logo="http://www.hitstv.com/assets/hits-movies-logo-color.png" group-title="TV Channels",Hits Movies
+https://tinyurl.com/3f7ud98v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="TV Channels",TAP Movies
+https://tinyurl.com/TAPMovies
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="TV Channels",Thrill
+https://tinyurl.com/yc79dfcw
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="TV Channels",TvN Movies Tagalog
+https://tinyurl.com/tvNMovies
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="TV Channels",WWE Network
+https://tinyurl.com/WWENETW
+
