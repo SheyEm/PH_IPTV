@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="24 HOUR FREE MOVIES"  tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="GENERAL" , 24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
+#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="TV Channels",A2Z
+http://jmrk.xyz:3050/live/mariamatos5@aol.com/NECUwTVLwP/558786.ts
+
 #EXTINF:-1 tvg-id="ACTION!!!"  tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="GENERAL" , Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 
