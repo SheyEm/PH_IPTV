@@ -35,13 +35,13 @@ https://bit.ly/4e9OrjW
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="GENERAL" , Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Asian Crush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="GENERAL, MOVIES" , Asian Crush
+#EXTINF:-1 tvg-id="Asian Crush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="GENERAL, MOVIES", Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ASIAN CRUSH"  tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="MOVIES;GENERAL", ASIAN CRUSH
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="GENERAL, GENERAL" , AXN
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="GENERAL, GENERAL", AXN
 http://170.254.18.106/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="BAYWATCH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="GENERAL" , Baywatch
@@ -53,7 +53,7 @@ https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk"  tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NEWS",BBC News Asia Pacific (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="GENERAL, NEWS" , BBC World News
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="GENERAL, NEWS", BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id=BEIN SPORTS EXTRA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="GENERAL" , Bein Sports Xtra
@@ -65,7 +65,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ANIMATION;KIDS",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="GENERAL, ANIMATION" , Cartoonito HD
+#EXTINF:-1 tvg-id="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="GENERAL, ANIMATION", Cartoonito HD
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="Cgtn Documentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="GENERAL" , CGTN Documentaries
@@ -77,13 +77,13 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="GENERAL, MOVIES" , CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="GENERAL, MOVIES", CINEMAX
 http://170.254.18.106/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="MOVIES", CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="GENERAL, NEWS" , CNN
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="GENERAL, NEWS", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 
 #EXTINF:-1 tvg-id="CNN HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="NEWS", CNN HD
@@ -134,22 +134,22 @@ https://bit.ly/44MSmz6
 #EXTINF:-1 tvg-id="GMA PINOY"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="GENERAL",GMA PINOY
 https://bit.ly/3yqN4x7
 
-#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="GENERAL, MOVIES" , HBO 2
+#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="GENERAL, MOVIES", HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsiaHD.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIES",HBO (1080p) [Geo-blocked]
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="GENERAL, MOVIES" , HBO Family
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="GENERAL, MOVIES", HBO Family
 http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="GENERAL, MOVIES" , HBO Plus
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="GENERAL, MOVIES", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="GENERAL, MOVIES" , HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="GENERAL, MOVIES", HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO XTREME"  tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="GENERAL, MOVIES" , HBO Xtreme
+#EXTINF:-1 tvg-id="HBO XTREME"  tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="GENERAL, MOVIES", HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF: -1 tvg-id="HGTV" tvg-chno="29" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6pX1cwMRvk84B9bprVAguwdseroOuWqQGzy8hu79F-YSQOM5i" group-title="GENERAL", HGTV
@@ -170,13 +170,13 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="K-Movies"  tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="MOVIES", K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lotus macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="GENERAL" , Lotus Macau
+#EXTINF:-1 tvg-id="Lotus macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="GENERAL", Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-#EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="GENERAL, MOVIES" , MovieSphere
+#EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="GENERAL, MOVIES", MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MYX" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="GENERAL, Music" , MYX
+#EXTINF:-1 tvg-id="MYX" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="GENERAL, Music", MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="MyxPhilippines.ph"  tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="MUSIC",MYX Philippines (720p)
@@ -200,7 +200,7 @@ https://tinyurl.com/SPORTplu
 #EXTINF:-1 tvg-id="OUTDOOR CHANNEL"  tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="GENERAL" , Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="GENERAL, MOVIES" , Paramount Network
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="GENERAL, MOVIES", Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="MOVIES",PBO
@@ -236,7 +236,7 @@ https://tinyurl.com/RadyoDZBB
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="TV Channels",TAP Movies
 https://tinyurl.com/TAPMovies
 
-#EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="GENERAL, NEWS" , TeleRadyo Serbisyo
+#EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="GENERAL, NEWS", TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="TFC"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="GENERAL",TFC
