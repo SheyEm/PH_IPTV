@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24 HOUR FREE MOVIES"  tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="GENERAL" , 24 Hour Free Movies
+#EXTINF:-1 tvg-id="24 HOUR FREE MOVIES"  tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="International Channels" , 24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
-#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="TV Channels",A2Z
+#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="Philippine Channels",A2Z
 http://jmrk.xyz:3050/live/mariamatos5@aol.com/NECUwTVLwP/558786.ts
 
-#EXTINF:-1 tvg-id="ACTION!!!"  tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="GENERAL" , Action!!!
+#EXTINF:-1 tvg-id="ACTION!!!"  tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="International Channels" , Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFV"  tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="GENERAL" , AFV
+#EXTINF:-1 tvg-id="AFV"  tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="International Channels" , AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="GENERAL" , ALJAZEERA
+#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="International Channels" , ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICAN IDOL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="GENERAL" , American Idol
+#EXTINF:-1 tvg-id="AMERICAN IDOL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="International Channels" , American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA'S GOT TALENT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="GENERAL" , America's Got Talent
+#EXTINF:-1 tvg-id="AMERICA'S GOT TALENT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="International Channels" , America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICAN PICKERS"  tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="GENERAL" , American Pickers
+#EXTINF:-1 tvg-id="AMERICAN PICKERS"  tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="International Channels" , American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/ANCHD.svg" group-title="NEWS",ANC 
+#EXTINF:-1 tvg-id="ANC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/ANCHD.svg" group-title="Philippine Channels",ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET"  tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="GENERAL" , Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL PLANET"  tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="International Channels" , Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
-#EXTINF:-1 tvg-id="ANIMAX (JP | No Subtitle)" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="ANIMATION", ANIMAX (JP | No Subtitle)
+#EXTINF:-1 tvg-id="ANIMAX (JP | No Subtitle)" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation Channels", ANIMAX (JP | No Subtitle)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="TV Channels",AnimeTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="Animation Channels",AnimeTV
 https://bit.ly/4e9OrjW
 
-#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="GENERAL" , Arirang
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="International Channels" , Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Asian Crush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="GENERAL, MOVIES", Asian Crush
+#EXTINF:-1 tvg-id="Asian Crush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="International Channels", Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASIAN CRUSH"  tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="MOVIES;GENERAL", ASIAN CRUSH
+#EXTINF:-1 tvg-id="ASIAN CRUSH"  tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="International Channels", ASIAN CRUSH
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="GENERAL, GENERAL", AXN
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="International Channels", AXN
 http://170.254.18.106/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="BAYWATCH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="GENERAL" , Baywatch
+#EXTINF:-1 tvg-id="BAYWATCH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="International Channels" , Baywatch
 https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC FOOD"  tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="GENERAL" , BBC Food
@@ -166,6 +166,12 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 
 #EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TMeNpGCPr2qcRynLSStj2lcIZxJWBVKAtRZSYWaiw6drMdWNNh_JOTas&s=10" group-title="EXPLORE;HOROR", INVESTIGATION DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/drama/images/6/69/Kapamilya_Channel.png/revision/latest/scale-to-width-down/180?cb=20220719055003" group-title="TV Channels",Kapamilya Channel
+https://tinyurl.com/3ae3nj2u
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Kapamilya_Online_Live_Wordmark_Logo_2020.png/revision/latest/scale-to-width-down/150?cb=20230713151037" group-title="TV Channels",Kapamilya Online
+https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
 
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="GENERAL" , KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
