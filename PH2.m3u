@@ -53,91 +53,91 @@ http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-id="BAYWATCH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="International Channels" , Baywatch
 https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBC FOOD"  tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="GENERAL" , BBC Food
+#EXTINF:-1 tvg-id="BBC FOOD"  tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="International Channels" , BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk"  tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NEWS",BBC News Asia Pacific (720p)
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk"  tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="International Channels",BBC News Asia Pacific
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="GENERAL, NEWS", BBC World News
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="International Channels", BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id=BEIN SPORTS EXTRA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="GENERAL" , Bein Sports Xtra
+#EXTINF:-1 tvg-id=BEIN SPORTS EXTRA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="International Channels" , Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="ANIMATION" , Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="Channels Channels" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="Buko Channel"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtxvqINKMZOWXMYxUL3VbKqnuRt-WTesT3Lg&s" group-title="Philippine Channels", Buko Channel
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/154
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ANIMATION;KIDS",Cartoon Network Southeast Asia (1080p)
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation Channels",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="GENERAL, ANIMATION", Cartoonito HD
+#EXTINF:-1 tvg-id="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="Animation Channels", Cartoonito HD
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movies Pinoy" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Philippine Channels", Celestial Movies Pinoy
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/159
 
-#EXTINF:-1 tvg-id="Cgtn Documentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="GENERAL" , CGTN Documentaries
+#EXTINF:-1 tvg-id="Cgtn Documentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International Channels" , CGTN Documentaries
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 tvg-id="Cgtn NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="GENERAL" , CGTN News
+#EXTINF:-1 tvg-id="Cgtn NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International Channels" , CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",Cinema One (1080p)
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Philippine Channels",Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="GENERAL, MOVIES", CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="International Channels", CINEMAX
 http://170.254.18.106/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="MOVIES", CINEMO!
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Philippine Channels", CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="GENERAL, NEWS", CNN
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="International Channels", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 
-#EXTINF:-1 tvg-id="CNN HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="NEWS", CNN HD
+#EXTINF:-1 tvg-id="CNN HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="International Channels", CNN HD
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 
-#EXTINF: -1 tvg-id="COMEDY CENTRAL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPoGVOjX2EdR9hLszsMeiWB1ENPRQOVWfvA&usqp=CAU" group-title="ANIMATION", COMEDY CENTRAL
+#EXTINF: -1 tvg-id="COMEDY CENTRAL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPoGVOjX2EdR9hLszsMeiWB1ENPRQOVWfvA&usqp=CAU" group-title="International Channels", COMEDY CENTRAL
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-id="CRUNCHYROLL | EN AUDIO / 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg" group-title="ANIMATION",CRUNCHYROLL | EN AUDIO / 720P
+#EXTINF:-1 tvg-id="CRUNCHYROLL | EN AUDIO / 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg" group-title="Animation Channels",CRUNCHYROLL
 https://bit.ly/Crunchyroll-ph
 
-#EXTINF:-1 tvg-id="DISCOVERY ENGLISH"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="SCIENCE;EXPLORE", DISCOVERY HD
+#EXTINF:-1 tvg-id="DISCOVERY ENGLISH"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="International Channels", DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="SCIENCE;EXPLORE", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="International Channels", DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxYRlWBm_1bLgEomRSsMuSXcYhA2bSHzzu2LznT2TaSlu7tXp_ZJ2zvY&s=10" group-title="SCIENCE;EXPLORE", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DISCOVERY TURBO"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxYRlWBm_1bLgEomRSsMuSXcYhA2bSHzzu2LznT2TaSlu7tXp_ZJ2zvY&s=10" group-title="International Channels", DISCOVERY TURBO
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-id="DMAX"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="MOVIES", DMAX
+#EXTINF:-1 tvg-id="DMAX"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="International Channels", DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
-#EXTINF:-1 tvg-logo="https://logotyp.us/file/dreamworks.svg" group-title="TV Channels",DreamWorks
+#EXTINF:-1 tvg-logo="https://logotyp.us/file/dreamworks.svg" group-title="Animation Channels",DreamWorks
 https://tinyurl.com/5ytwmdjm
 
 #EXTINF:-1 group-title="TV Channels",DreamWorks Tagalized
 https://stream.freetv.fun/d989ed993980c51e8b0f36ac1b09e851cdba7c58fb3eae1d653dc91c49df7620.ctv
 
-#EXTINF:-1 tvg-id="DZBBDT1.ph"  tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="NEWS",DZBB Super Radyo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DZBBDT1.ph"  tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="Philippine Channels",DZBB Super Radyo (720p) [Not 24/7]
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="International Channel", ESPN
+#EXTINF:-1 tvg-id="ESPN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="International Channels", ESPN
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/34
 
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="FOOD", FOOD NETWORK
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="International Channels", FOOD NETWORK
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
-#EXTINF:-1 tvg-id="FOX LIVE"  tvg-logo="https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Fox-News-Live.png" group-title="NEWS", FOX LIVE 
+#EXTINF:-1 tvg-id="FOX LIVE"  tvg-logo="https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Fox-News-Live.png" group-title="International Channels", FOX LIVE 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="GENERAL" , France 24
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="International Channels" , France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
 #EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="Philippine Channels", GMA
@@ -152,143 +152,143 @@ https://bit.ly/3yqN4x7
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1280px-GTV_Philippines_Logo.png" group-title="Philippine Channels", GTV
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/138
 
-#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="GENERAL, MOVIES", HBO 2
+#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="International Channels", HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOAsiaHD.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIES",HBO (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HBOAsiaHD.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="International Channels",HBO (1080p) [Geo-blocked]
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="GENERAL, MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="International Channels", HBO Family
 http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="GENERAL, MOVIES", HBO Plus
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="International Channels", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="GENERAL, MOVIES", HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="International Channels", HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO XTREME"  tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="GENERAL, MOVIES", HBO Xtreme
+#EXTINF:-1 tvg-id="HBO XTREME"  tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="International Channels", HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 
-#EXTINF: -1 tvg-id="HGTV" tvg-chno="29" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6pX1cwMRvk84B9bprVAguwdseroOuWqQGzy8hu79F-YSQOM5i" group-title="GENERAL", HGTV
+#EXTINF: -1 tvg-id="HGTV" tvg-chno="29" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6pX1cwMRvk84B9bprVAguwdseroOuWqQGzy8hu79F-YSQOM5i" group-title="International Channels", HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.hitstv.com/assets/hits-movies-logo-color.png" group-title="TV Channels",Hits Movies
+#EXTINF:-1 tvg-logo="http://www.hitstv.com/assets/hits-movies-logo-color.png" group-title="TInternational Channels",Hits Movies
 https://tinyurl.com/3f7ud98v
 
-#EXTINF:-1 tvg-id="INCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" group-title="GENERAL" , INCTV
+#EXTINF:-1 tvg-id="INCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" group-title="Philippine Channels" , INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
-#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TMeNpGCPr2qcRynLSStj2lcIZxJWBVKAtRZSYWaiw6drMdWNNh_JOTas&s=10" group-title="EXPLORE;HOROR", INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TMeNpGCPr2qcRynLSStj2lcIZxJWBVKAtRZSYWaiw6drMdWNNh_JOTas&s=10" group-title="International Channels", INVESTIGATION DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/drama/images/6/69/Kapamilya_Channel.png/revision/latest/scale-to-width-down/180?cb=20220719055003" group-title="TV Channels",Kapamilya Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/drama/images/6/69/Kapamilya_Channel.png/revision/latest/scale-to-width-down/180?cb=20220719055003" group-title="Philippine Channels",Kapamilya Channel
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/2
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Kapamilya_Online_Live_Wordmark_Logo_2020.png/revision/latest/scale-to-width-down/150?cb=20230713151037" group-title="TV Channels",Kapamilya Online
-https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
-
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="GENERAL" , KBS World
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="International Channels" , KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-id="K-Movies"  tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="MOVIES", K-MOVIES
+#EXTINF:-1 tvg-id="K-Movies"  tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="International Channels", K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lotus macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="GENERAL", Lotus Macau
+#EXTINF:-1 tvg-id="Lotus macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="International Channels", Lotus Macau
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/53
 
-#EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="GENERAL, MOVIES", MovieSphere
+#EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="International Channels", MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV 90s"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg" group-title="International Channel",MTV 90s
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/42
 
-#EXTINF:-1 tvg-id="MYX" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="GENERAL, Music", MYX
+#EXTINF:-1 tvg-id="MYX" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="Philippine Channels", MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="MyxPhilippines.ph"  tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="MUSIC",MYX Philippines (720p)
+#EXTINF:-1 tvg-id="MyxPhilippines.ph"  tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Philippine Channels",MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="NEWS" , NHK World Japan
+#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="International Channels" , NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="NICKELODEON JR"  tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="ANIMATION",NICKELODEON JR
+#EXTINF:-1 tvg-id="NICKELODEON JR"  tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="Animation Channels",NICKELODEON JR
 https://tinyurl.com/yky2zpca
 
-#EXTINF:-1 tvg-id="ONE NEWS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="NEWS",One News
+#EXTINF:-1 tvg-id="ONE NEWS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="Philippine Channels",One News
 https://bit.ly/3V39Bce
 
-#EXTINF:-1 tvg-id="ONE SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="SPORTS",One Sports
+#EXTINF:-1 tvg-id="ONE SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Philippine Channels",One Sports
 https://bit.ly/4dIklUF
 
-#EXTINF:-1 tvg-id="ONE SPORTS+"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="SPORTS",One Sports+
+#EXTINF:-1 tvg-id="ONE SPORTS+"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="Philippine Channels",One Sports+
 https://tinyurl.com/SPORTplu
 
-#EXTINF:-1 tvg-id="OUTDOOR CHANNEL"  tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="GENERAL" , Outdoor Channel
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL"  tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="International Channels" , Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="GENERAL, MOVIES", Paramount Network
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="International Channels", Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="MOVIES",PBO
+#EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Philippine Channels",PBO
 https://bit.ly/44LFPvQ
 
-#EXTINF:-1 tvg-id="RAKUTEN TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="GENERAL", RAKUTEN TV 
+#EXTINF:-1 tvg-id="PTV 4"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOymo0lJq9byFEvcIUIzL667nPD_LAisdVCw&s" group-title="Philippine Channels",PTV 4
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/10
+
+#EXTINF:-1 tvg-id="RAKUTEN TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="International Channels", RAKUTEN TV 
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="RAKUTEN TV FAMILY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="GENERAL", RAKUTEN TV FAMILY
+#EXTINF:-1 tvg-id="RAKUTEN TV FAMILY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="International Channels", RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="RAKUTEN TV ACTION MOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="MOVIES", RAKUTEN TV ACTION MOVIES
+#EXTINF:-1 tvg-id="RAKUTEN TV ACTION MOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="International Channels", RAKUTEN TV ACTION MOVIES
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="REDBOX COMEDY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="GENERAL" , Redbox Comedy
+#EXTINF:-1 tvg-id="REDBOX COMEDY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="International Channels" , Redbox Comedy
 https://comedy-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="REDBOX SPOTLIGHT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="GENERAL" , Redbox Spotlight
+#EXTINF:-1 tvg-id="REDBOX SPOTLIGHT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="International Channels" , Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SARI-SARI"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="GENERAL",SARI - SARI
-https://tinyurl.com/5bcc4nrw
+#EXTINF:-1 tvg-id="SARI-SARI"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="Philippine Channels",SARI - SARI
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/153
 
-#EXTINF:-1 tvg-id="SONY MOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="MOVIES", SONY MOVIES
+#EXTINF:-1 tvg-id="SONY MOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="International Channels", SONY MOVIES
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Sony PIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="GENERAL, MOVIES", SONY PIX
+#EXTINF: -1 tvg-id="Sony PIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="International Channels", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="SUPER RADYO DZBB (AUDIO STREAM)"  tvg-logo="https://cdn.onlineradiobox.com/img/l/8/63288.v7.png" group-title="NEWS",Super Radyo DZBB
+#EXTINF:-1 tvg-id="SUPER RADYO DZBB (AUDIO STREAM)"  tvg-logo="https://cdn.onlineradiobox.com/img/l/8/63288.v7.png" group-title="Philippine Channels",Super Radyo DZBB
 https://tinyurl.com/RadyoDZBB
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="TV Channels",TAP Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="International Channels",TAP Movies
 https://tinyurl.com/TAPMovies
 
-#EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="GENERAL, NEWS", TeleRadyo Serbisyo
+#EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippine Channels", TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="TFC"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="GENERAL",TFC
+#EXTINF:-1 tvg-id="TFC"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="Philippine Channels",TFC
 https://bit.ly/3WLqRDR
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="TV Channels",Thrill
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="International Channels",Thrill
 https://tinyurl.com/yc79dfcw
 
-#EXTINF:-1 tvg-id="Thrillers"  tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="GENERAL" , Thrillers
+#EXTINF:-1 tvg-id="Thrillers"  tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="International Channels" , Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TLC HD"  tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="GENERAL", TLC HD
+#EXTINF:-1 tvg-id="TLC HD"  tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="International Channels", TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 
-#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="GENERAL" , Travel Channel
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="International Channels" , Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
-#EXTINF:-1 tvg-id="TV5"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="GENERAL;NEWS', TV 5 (720p / 1080p) 
+#EXTINF:-1 tvg-id="TV5"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="Philippine Channel", TV 5 (720p / 1080p) 
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:-1 tvh-id="TvN Movies Tagalog" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="TV Channels",TvN Movies Tagalog
+#EXTINF:-1 tvh-id="TvN Movies Tagalog" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="Philippine Channels",TvN Movies Tagalog
 https://tinyurl.com/tvNMovies
 
-#EXTINF:-1 tvg-id="WILD PLANET"  tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="GENERAL" , Wild Planet
+#EXTINF:-1 tvg-id="WILD PLANET"  tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="International Channels" , Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WWE NETWORK"  tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="SPORTS",WWE Network
+#EXTINF:-1 tvg-id="WWE NETWORK"  tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="International Channels",WWE Network
 https://tinyurl.com/WWENETW
