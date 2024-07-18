@@ -3,7 +3,7 @@
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="Philippine Channels",A2Z
-http://jmrk.xyz:3050/live/mariamatos5@aol.com/NECUwTVLwP/558786.ts
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/6
 
 #EXTINF:-1 tvg-id="ACTION!!!"  tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="International Channels" , Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
@@ -13,6 +13,9 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="International Channels" , ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="All TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRV8bh5kTD-vSHFqIeUA3SYLOsi6USAw515A&s" group-title="Philippine Channels" , All TV
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/161
 
 #EXTINF:-1 tvg-id="AMERICAN IDOL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="International Channels" , American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
@@ -64,6 +67,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="ANIMATION" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="Buko Channel"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtxvqINKMZOWXMYxUL3VbKqnuRt-WTesT3Lg&s" group-title="Philippine Channels", Buko Channel
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/154
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ANIMATION;KIDS",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
@@ -134,14 +140,17 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="GENERAL" , France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
-#EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL", GMA
-https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
+#EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="Philippine Channels", GMA
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/135
 
-#EXTINF:-1 tvg-id="GMA LIFE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="GENERAL",GMA LIFE
+#EXTINF:-1 tvg-id="GMA LIFE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="Philippine Channels",GMA LIFE
 https://bit.ly/44MSmz6
 
 #EXTINF:-1 tvg-id="GMA PINOY"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="GENERAL",GMA PINOY
 https://bit.ly/3yqN4x7
+
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1280px-GTV_Philippines_Logo.png" group-title="Philippine Channels", GTV
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/138
 
 #EXTINF:-1 tvg-id="HBO 2"  tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="GENERAL, MOVIES", HBO 2
 http://170.254.18.106/HBO2/index.m3u8
