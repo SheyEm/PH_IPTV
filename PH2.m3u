@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Stremio"  tvg-logo="https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs" group-title="Streaming" , Stremio
 http://127.0.0.1:11470/
+
+#EXTINF:-1 tvg-id="Stremio"  tvg-logo="https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs" group-title="Streaming" , Stremio
+http://127.0.0.1:11470/f13d5ed6af7bc87bd9d8c162ea59e32e83165ebb/0?
